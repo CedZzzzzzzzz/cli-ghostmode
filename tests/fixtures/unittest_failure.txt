@@ -1,2 +1,0 @@
-File "C:\\project\\app.py", line 9, in calculate
-AssertionError: 1 != 2
